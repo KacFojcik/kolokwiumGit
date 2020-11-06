@@ -5,3 +5,4 @@ Zmiana03
 prostaWersja
 Zmiana05
 Zmiana07wklonie
+Zmiana08
